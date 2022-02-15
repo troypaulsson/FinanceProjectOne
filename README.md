@@ -1,2 +1,2 @@
 # FinanceProjectOne
-A financial data cleaning and visualization project
+A financial data cleaning, analyzing, and visualization project
